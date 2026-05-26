@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvrocess",
+        "uuid": 198172,
+        "checksum": "vtbk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
